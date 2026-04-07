@@ -1,5 +1,6 @@
 Scans websites for exposed API keys, secrets, sensitive data, ex: security headers, Cookies, CORS, HTTP TRACE, HTTPS Redirect, API Leak,...etc.
 
+![Screenshot](/Saga-API-Leak-Scanner-2-1.png)
 ![Screenshot](/Saga-API-Leak-Scanner-proof-1.png)
 
 <h2>🎬 Demo Video</h2>
