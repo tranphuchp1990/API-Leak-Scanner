@@ -1,11 +1,10 @@
 Scans websites for exposed API keys, secrets, sensitive data, ex: security headers, Cookies, CORS, HTTP TRACE, HTTPS Redirect, API Leak,...etc.
 
-![Screenshot](/Sanmao_SMTP_Cracker_1.75.png)
+![Screenshot](/Saga-API-Leak-Scanner-proof-1.png)
 
 <h2>🎬 Demo Video</h2>
 <p>
-  <a href="">Watch Demo Video</a></br>
-  <a href="">Watch Demo Video</a>
+  <a href="https://odysee.com/@SoftHatch:5/Saga-API-Leak-Scanner----:f?src=embed">Watch Demo Video</a></br>
 </p>
 
 <h2>📬 Contact</h2>
